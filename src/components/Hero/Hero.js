@@ -10,7 +10,9 @@ const Hero = (props) => (
       <SectionTitle main center>
         Hello there
       </SectionTitle>
-      <SectionText>I'm Oladeji Tosin, a backend developer </SectionText>
+      <SectionText>
+        I'm Oladeji Tosin, a backend developer. I like to craft scalable products and write high quality code.{' '}
+      </SectionText>
       <Button onClick={() => (window.location = 'mailto:oladejit3@gmail.com')}>Hire me</Button>
     </LeftSection>
   </Section>
