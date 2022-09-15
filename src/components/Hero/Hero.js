@@ -11,7 +11,7 @@ const Hero = (props) => (
         Hello there
       </SectionTitle>
       <SectionText>
-        I'm Oladeji Tosin, a backend developer. I like to craft scalable products and write high quality code.{' '}
+        I'm Oladeji Tosin, a backend developer. I like to craft solid, scalable products and write high quality code.{' '}
       </SectionText>
       <Button onClick={() => (window.location = 'mailto:oladejit3@gmail.com')}>Hire me</Button>
     </LeftSection>
