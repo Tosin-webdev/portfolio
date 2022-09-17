@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Ecommerce App',
-    description: 'A website where a user can buy products',
+    description: "An ecommerce store built with MERN stack, and utilizes third party API's",
     image: '/images/1.png',
     tags: ['MongoDB', 'Express', 'React', 'Node'],
     source: 'https://github.com/Tosin-webdev/nodejs-ecommerce-webapp',
