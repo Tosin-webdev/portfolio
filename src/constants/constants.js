@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/1.png',
     tags: ['MongoDB', 'Express', 'React', 'Node'],
     source: 'https://github.com/Tosin-webdev/nodejs-ecommerce-webapp',
-    visit: 'https://google.com',
+    visit: 'https://i-stores.netlify.app',
     id: 0,
   },
   {
