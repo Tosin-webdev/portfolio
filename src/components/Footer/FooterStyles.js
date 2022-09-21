@@ -34,7 +34,7 @@ export const LinkItem = styled.a`
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    font-size: 8px;
+    font-size: 28px;
     line-height: 14px;
     margin-bottom: 8px;
     display: flex;
@@ -148,8 +148,8 @@ export const LinkTitle = styled.h4`
   margin-bottom: 16px;
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    font-size: 10px;
-    line-height: 12px;
+    font-size: 20px;
+    line-height: 30px;
     margin-bottom: 8px;
   }
 `;
