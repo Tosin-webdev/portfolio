@@ -1,2 +1,2 @@
-## my Portfolio website :)
+## my Personal website :)
 
