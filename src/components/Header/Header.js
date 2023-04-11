@@ -29,7 +29,7 @@ const Header = () => (
       </li>
       <li>
         <ExternalLinks
-          href="https://medium.com/@oladejit3/introduction-to-callback-functions-2f67fc1af483"
+          href="https://medium.com/@oladejit3"
           target="blank"
         >
           <NavLink>Blogs</NavLink>
