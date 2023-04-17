@@ -23,7 +23,7 @@ export const projects = [
     image: '/images/3.png',
     tags: ['HTML/CSS', 'Node.js'],
     source: 'https://github.com/Tosin-webdev/chat-app-nodejs',
-    visit: 'https://chat-board-nodejs.herokuapp.com/',
+    visit: 'https://chat-app-6odd.onrender.com/',
     id: 2,
   },
   {
