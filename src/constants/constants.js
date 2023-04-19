@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Elimpco',
     description: 'An application where a user can find tours and book them',
-    image: '/images/9.png',
+    image: '/images/8.png',
     tags: ['HTML/CSS', 'JavaScript', 'Nodejs', 'MongoDB'],
     source: 'https://github.com/Tosin-webdev/elimpco',
     visit: 'https://elimpco.onrender.com/',
