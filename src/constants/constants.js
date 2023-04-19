@@ -30,7 +30,7 @@ export const projects = [
     title: 'Cardify',
     description: 'This is a website whereby an authenticated user can download various credit card designs',
     image: '/images/2.png',
-    tags: ['HTML/CSS', 'Node.js', 'MySQL'],
+    tags: ['HTML/CSS', 'Node.js', 'MongoDB'],
     source: 'https://github.com/zuri-training/CC-Generator-Team127',
     visit: 'https://cardify.onrender.com',
     id: 3,
