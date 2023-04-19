@@ -30,25 +30,23 @@ const Header = () => (
       <li>
         <ExternalLinks
           href="https://medium.com/@oladejit3"
-          target="blank"
         >
           <NavLink>Blogs</NavLink>
         </ExternalLinks>
       </li>
       <li>
         <ExternalLinks
-          href="https://drive.google.com/file/d/1chn6-nquu1fXCEoSna1rJ5spc6rp_wzE/view?usp=sharing"
-          target="blank"
+          href="https://drive.google.com/file/d/1chn6-nquu1fXCEoSna1rJ5spc6rp_wzE/view"
         >
           <NavLink>Resume</NavLink>
         </ExternalLinks>
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/tosin-webdev" target="blank">
+      <SocialIcons href="https://github.com/tosin-webdev">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/tosin-oladeji-4395551ab/" target="blank">
+      <SocialIcons href="https://www.linkedin.com/in/tosin-oladeji-4395551ab/">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
     </Div3>
