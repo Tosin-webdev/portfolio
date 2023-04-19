@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Crud app',
-    description: 'This is a web application that allows a user to create, view, update ande delete resources.',
+    title: 'Credit card generator',
+    description: 'This is a website whereby an authenticated user can download various credit card designs',
     image: '/images/4.png',
     tags: ['HTML/CSS', 'Node.js', 'MySQL'],
-    source: 'https://github.com/Tosin-webdev/user-management-mysql',
-    visit: 'https://user-management-crudapp.herokuapp.com/',
+    source: 'https://github.com/zuri-training/CC-Generator-Team127',
+    visit: 'https://cardify.onrender.com',
     id: 3,
   },
 ];
