@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Cardify',
-    description: 'This is a website whereby an authenticated user can download various credit card designs',
+    title: 'Elimpco',
+    description: 'An application where a user can find tours and book them',
     image: '/images/2.png',
     tags: ['HTML/CSS', 'JavaScript', 'Nodejs', 'MongoDB'],
-    source: 'https://github.com/zuri-training/CC-Generator-Team127',
-    visit: 'https://cc-gen-127.herokuapp.com/',
+    source: 'https://github.com/Tosin-webdev/elimpco',
+    visit: 'https://elimpco.onrender.com/',
     id: 1,
   },
   {
