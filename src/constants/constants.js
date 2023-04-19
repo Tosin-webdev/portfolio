@@ -27,7 +27,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Credit card generator',
+    title: 'Cardify',
     description: 'This is a website whereby an authenticated user can download various credit card designs',
     image: '/images/2.png',
     tags: ['HTML/CSS', 'Node.js', 'MySQL'],
