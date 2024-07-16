@@ -36,7 +36,7 @@ const Header = () => (
       </li>
       <li>
         <ExternalLinks
-          href="https://drive.google.com/file/d/1chn6-nquu1fXCEoSna1rJ5spc6rp_wzE/view"
+          href="https://drive.google.com/file/d/1IkVxKs9ho8fImu0vu4tWqvlSEVJJc8DA/view?usp=sharing"
         >
           <NavLink>Resume</NavLink>
         </ExternalLinks>
