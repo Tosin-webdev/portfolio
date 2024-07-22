@@ -1,4 +1,4 @@
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useState, useRef, useEffect } from "react";
 
 import {
   CarouselButton,
@@ -10,9 +10,14 @@ import {
   CarouselItemText,
   CarouselItemTitle,
   CarouselMobileScrollNode,
-} from './TimeLineStyles';
-import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import { TimeLineData } from '../../constants/constants';
+} from "./TimeLineStyles";
+import {
+  Section,
+  SectionDivider,
+  SectionText,
+  SectionTitle,
+} from "../../styles/GlobalComponents";
+import { TimeLineData } from "../../constants/constants";
 
 const TOTAL_CAROUSEL_COUNT = TimeLineData.length;
 
@@ -58,8 +63,9 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am a Node.js developer with two years of experience creating, maintaining, testing, and debugging the entire
-        back end of a website.
+        I am a DevOps engineer with two years of experience automating
+        deployments, maintaining CI/CD pipelines, monitoring infrastructure, and
+        ensuring the reliability and scalability of systems.
       </SectionText>
       {/* <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
